@@ -19,6 +19,10 @@ Este Vault tiene el aval y aprobación del organismo de control y una esytructur
 
 Los inversores interesados en depositar valores en cada uno, con un simple click ya están aportando valores directamente a un productor que propone la oferta. Y, a este inversor, se le entrega un NFT de rendimiento para que oferte en un mercado secundario.
 
+### 😍 ¿Cuáles son algunos de los Casos de Uso en BueBio?
+- Pre Financiación de producción agroecológica
+- Retribución a donantes y contribuyentes
+- Inversión de impacto a cambio de una tasa
 
 
 ## 🤔 Avance desarrollo de BueBio
@@ -63,6 +67,6 @@ A continuación se deja constancia del código fuente de la plataforma. Sus part
 https://gitlab.com/gravadigital/buebio
 
 
--->
+
 
 
